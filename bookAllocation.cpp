@@ -4,6 +4,7 @@
 #include <numeric>   
 
 using namespace std;
+
 class Solution {
 public:
     int countStudents(vector<int>& nums, int mid, int n) {
